@@ -14,7 +14,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  background-image: url("https://raw.githubusercontent.com/magnolppacheco/Poke/master/assets/image/bgpage.jpg");
+  background-image: url("https://raw.githubusercontent.com/magnolppacheco/pokedex/main/assets/image/bgpage.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
